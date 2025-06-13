@@ -5,7 +5,9 @@ TODO:
  - Go through and change all matrix names
  - Call generate_grid once and pass the grid as a parameter rather than n
  - Write in print statement to keep track of what the long runs are doing
- - Clean up code if necessary
+ - Clean up code
+    - update comment headers
+    - go through and add body comments
  - Split the functions into modular files
  - Find where the codes speed is bottlenecking
 
